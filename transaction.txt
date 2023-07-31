@@ -1,0 +1,276 @@
+Operation Performed: Transfer
+Account Owner: David
+Transaction Card: 121
+Type of Transaction: Transfer
+Amount of: Transfer 1000
+Date:> 2020-2-3
+Time:> 3-41-24
+
+
+
+Operation Performed: Balance Check
+Account Owner: David
+Transaction Card: 121
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 3-41-31
+
+
+
+Operation Performed: Withdrawal
+Account Owner: David
+Transaction Card: 121
+Type of Transaction: Withdrawal
+Amount of: Withdrawal 123
+Date:> 2020-2-3
+Time:> 3-41-38
+
+
+
+Operation Performed: Balance Check
+Account Owner: Daniel
+Transaction Card: 123
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 6-55-52
+
+
+
+Operation Performed: Balance Check
+Account Owner: David
+Transaction Card: 121
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 7-23-7
+
+
+
+Operation Performed: Withdrawal
+Account Owner: David
+Transaction Card: 121
+Type of Transaction: Withdrawal
+Amount of: Withdrawal 22
+Date:> 2020-2-3
+Time:> 7-23-16
+
+
+
+Operation Performed: Transfer
+Account Owner: Daniel Mesfin
+Transaction Card: 123
+Type of Transaction: Transfer
+Amount of: Transfer 40
+Date:> 2020-2-3
+Time:> 7-39-44
+
+
+
+Operation Performed: Transfer
+Account Owner: Daniel Mesfin
+Transaction Card: 123
+Type of Transaction: Transfer
+Amount of Transfer:55
+Date:> 2020-2-3
+Time:> 7-41-20
+
+
+
+Operation Performed: Withdrawal
+Account Owner: Daniel Mesfin
+Transaction Card: 123
+Type of Transaction: Withdrawal
+Amount of Withdrawal:1234
+Date:> 2020-2-3
+Time:> 8-2-51
+
+
+
+Operation Performed: Transfer
+Account Owner: Daniel Mesfin
+Transaction Card: 123
+Type of Transaction: Transfer
+Amount of Transfer:1222
+Date:> 2020-2-3
+Time:> 8-3-9
+
+
+
+Operation Performed: Balance Check
+Account Owner: Daniel Mesfin
+Transaction Card: 123
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 8-22-39
+
+
+
+Operation Performed: Withdrawal
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Withdrawal
+Amount of Withdrawal:100
+Date:> 2020-2-3
+Time:> 10-57-28
+
+
+
+Operation Performed: Withdrawal
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Withdrawal
+Amount of Withdrawal:120000
+Date:> 2020-2-3
+Time:> 10-58-44
+
+
+
+Operation Performed: Withdrawal
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Withdrawal
+Amount of Withdrawal:120
+Date:> 2020-2-3
+Time:> 10-59-22
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-0-39
+
+
+
+Operation Performed: Withdrawal
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Withdrawal
+Amount of Withdrawal:1200
+Date:> 2020-2-3
+Time:> 11-0-49
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-0-53
+
+
+
+Operation Performed: Transfer
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Transfer
+Amount of Transfer:100
+Date:> 2020-2-3
+Time:> 11-1-57
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-2-4
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-3-19
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-4-2
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-4-16
+
+
+
+Operation Performed: Withdrawal
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Withdrawal
+Amount of Withdrawal:100
+Date:> 2020-2-3
+Time:> 11-4-26
+
+
+
+Operation Performed: Balance Check
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-4-35
+
+
+
+Operation Performed: Transfer
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Transfer
+Amount of Transfer:100
+Date:> 2020-2-3
+Time:> 11-4-49
+
+
+
+Operation Performed: Withdrawal
+Account Owner: josh mnn
+Transaction Card: 111
+Type of Transaction: Withdrawal
+Amount of Withdrawal:100
+Date:> 2020-2-3
+Time:> 11-5-25
+
+
+
+Operation Performed: Withdrawal
+Account Owner: Natnael Tedros
+Transaction Card: 2222
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-43-53
+
+
+
+Operation Performed: Withdrawal
+Account Owner: Natnael Tedros
+Transaction Card: 2222
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-44-3
+
+
+
+Operation Performed: Balance Check
+Account Owner: Natnael Tedros
+Transaction Card: 2222
+Type of Transaction: None
+Date:> 2020-2-3
+Time:> 11-49-49
+
+
+

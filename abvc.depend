@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580720178 source:c:\users\dani\desktop\ece\course of 3rd semister\c++\abvc\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<ctime>
+	<Windows.h>
+	<stdio.h>
+	<iomanip>
+
